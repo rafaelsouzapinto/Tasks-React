@@ -1,0 +1,32 @@
+.taskList {
+  padding: 1.5rem;
+  background-color: #e2e8f0;
+  border-radius: 6px;
+  width: 500px;
+  margin: auto;
+}
+
+.itemTaskList {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  height: 50px;
+}
+
+.button {
+  background-color: #94a3b8;
+  text-align: left;
+  color: #fff;
+  width: 100%;
+  padding: 0.5rem /* 8px */;
+  border-radius: 0.375rem /* 6px */;
+  margin: 2px;
+  border: none;
+  height: 41px;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #64748b;
+  transition: 0.2s;
+}
