@@ -1,4 +1,4 @@
-# TASKS REACT
+# Tasks React
 
 ## Sobre o projeto 🚀
 Projeto desenvolvido em React de um gerenciador de tarefas. Conta com funções de cadastro, detalhamento, marcar como concluído e exclusão de tarefas.
